@@ -3,7 +3,7 @@ import os
 from slack import WebClient
 from slack.errors import SlackApiError
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 
 class SlackHelper(object):

@@ -1,2 +1,3 @@
 pyslack
 slackclient
+Adafruit-DHT
